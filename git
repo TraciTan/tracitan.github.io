@@ -1,5 +1,0 @@
-git init
-git add –-all
-git commit -m "first commit"
-git remote add origin https://github.com/tracitan/tracitan.github.io.git
-git push -u origin master
